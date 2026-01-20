@@ -18,7 +18,10 @@ Features
 - Dual or Stereo speaker support at front of head.
 - Mounting holes for PiZero, and Teensy Head Board (coming soon)
 
+![Park Head Mod V2 Preview](./V2-Ex.PNG)
+
 Currently only available in STEP, STL/3MF files are not being released at this point
 Print at your own risk.
+
 
 If you use or remix this, please credit the author above.
